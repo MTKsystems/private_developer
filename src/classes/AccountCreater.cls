@@ -3,6 +3,11 @@
  * @author yajima
  */
 public class AccountCreater{
+    //github運用テストに利用
+    public void getMethod(){
+
+    }
+
     /**
      * 取引先作成
      * @author yajima　2014
