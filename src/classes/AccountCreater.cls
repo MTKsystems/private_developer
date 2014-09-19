@@ -5,7 +5,7 @@
 public class AccountCreater{
     //github運用テストに利用
     public void getMethod(){
-
+        String a;
     }
 
     /**
