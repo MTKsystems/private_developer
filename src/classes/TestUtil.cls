@@ -1,7 +1,7 @@
 public class TestUtil{
     //git運用のテストに利用
     public void getMethod(){
-
+        String a;
     }
     
     public Lead getTestLead(){
