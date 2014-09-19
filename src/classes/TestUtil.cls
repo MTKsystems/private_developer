@@ -1,4 +1,9 @@
 public class TestUtil{
+    //git運用のテストに利用
+    public void getMethod(){
+
+    }
+    
     public Lead getTestLead(){
         Lead lead = new Lead();
         lead.company = 'テストコード株式会社';
